@@ -1,5 +1,5 @@
 # migration-svn-to-git-on-linux
-#!/bin/bash
+#!/bin/bash \n
 echo "Insert the SVN project url"
 read svnurl
 echo "Insert the name file while it will be placed in /opt/"
